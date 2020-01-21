@@ -1,0 +1,4 @@
+alert (toCelsius(68))
+function toCelsius(fahrenheit) { return (5/9) * (fahrenheit - 32);}
+
+I used the following example in safari and chrome and both responded similarly. safari also displayed that it was coming from d2l.
